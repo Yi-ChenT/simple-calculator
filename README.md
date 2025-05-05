@@ -8,17 +8,17 @@ It demonstrates clear function decomposition, robust input validation, and the u
 
     1. Addition +
 
-    2. Subtraction ‑
+    1. Subtraction ‑
 
-    3. Multiplication *
+    1. Multiplication *
 
-    4. Division / (with zero‑division guard)
+    1. Division / (with zero‑division guard)
 
-    5. Modulus % (integer remainder, zero guard)
+    1. Modulus % (integer remainder, zero guard)
 
-    6. Exponentiation ^ (via pow)
+    1. Exponentiation ^ (via pow)
 
-    7. Square‑root r (via sqrt, non‑negative check)
+    1. Square‑root r (via sqrt, non‑negative check)
 
 - User‑Friendly Menu — clear prompts, looped execution until the user chooses Exit (e).
 
