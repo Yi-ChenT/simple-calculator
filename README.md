@@ -36,4 +36,6 @@ It demonstrates clear function decomposition, robust input validation, and the u
 |String / I/O     |	fgets, strlen, sscanf	Safe input handling without buffer overruns.                                                                       |
 |Defensive Coding |	division‑by‑zero, invalid operator checks	Prevents runtime errors and undefined behaviour.    
 
-Feel free to fork, star, or adapt the code for your own learning or coursework. Happy calculating! 🎉                                             |
+<hr/>
+
+Feel free to fork, star, or adapt the code for your own learning or coursework. Happy calculating! 🎉                                             
